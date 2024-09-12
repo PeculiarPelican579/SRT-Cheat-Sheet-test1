@@ -925,3 +925,7 @@ $ git config --global color.ui 1
 | Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
 | Pragmatic Guide to Git | http://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git |
 | Git: Version Control for Everyone | http://www.packtpub.com/git-version-control-for-everyone/book |
+
+```
+VERY BAD! 20 social credits have been deducted 低等公民 and your internet access card 上网通行证 has been suspended for: [24 Hours]. Please refrain from mentioning events that never happened that could discredit the great 人民共产党 People’s Communist Party again or we will be forced to 饿了就睡觉 send party agents to escort you to a re-education van [人民行刑车].
+```
